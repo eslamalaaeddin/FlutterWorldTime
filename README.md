@@ -1,6 +1,6 @@
 # world_time
-
-A new Flutter application.
+This repository is for my new app called FlutterWorldTime which gives the user the ability to view world time using world time api
+http://worldtimeapi.org
 
 ## Getting Started
 
